@@ -10,8 +10,17 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "^1.0.3",
+    "@nuxtjs/tailwindcss": "^6.12.1",
+    "@pinia-plugin-persistedstate/nuxt": "^1.2.0",
     "nuxt": "^3.8.2",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@formkit/addons": "^1.6.5",
+    "@formkit/nuxt": "^1.6.5",
+    "@pinia/nuxt": "^0.5.1",
+    "@vueuse/core": "^10.11.0",
+    "pinia": "^2.1.7"
   }
 }
